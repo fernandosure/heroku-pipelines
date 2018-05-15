@@ -3,6 +3,10 @@
   "scripts": {
   },
   "env": {
+    "CURRENT_PROFILE": {
+      "description": "the current active profile",
+      "value": "testing"
+    }
   },
   "formation": {
   },
